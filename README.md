@@ -1,7 +1,7 @@
 ### Hi there, I'm Sundar Raj Sharma👋
 
 [![Website]](https://pensive-austin-99dbdc.netlify.app/)
-[![LinkedIn Follow]](https://www.linkedin.com/in/sundar-raj-sharma-1a837b169/)
+[![linkedin]](https://www.linkedin.com/in/sundar-raj-sharma-1a837b169/)
 
 ## I'm a Undergraduate Student Expected to Graduate in Aug 2021, Self Taught Front end Web Developer, Leetcoder, and a Man with big Dreams!!
 
@@ -11,10 +11,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
