@@ -1,9 +1,7 @@
 ### Hi there, I'm Sundar Raj Sharma👋 <br/>
 Originally From: <img align="left" alt="Nepal" width="46px" src="https://t4.ftcdn.net/jpg/02/75/90/63/240_F_275906383_lmWCuP1auCLXm9ne5pkGElxDJrTQC3ln.jpg" />
-<br/> 
 Now Living in :<img align="left" alt="Nepal" width="46px" src="
 https://t3.ftcdn.net/jpg/01/74/67/08/240_F_174670852_YXvoPN8GvhfYPvpIKKXlgmj8knejHKdf.jpg" />
-<br/>
 
 
 [Website](https://pensive-austin-99dbdc.netlify.app/)
