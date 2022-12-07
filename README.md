@@ -1,4 +1,6 @@
 ### Hi there, I'm Sundar Raj Sharma👋 <br/>
+
+
 <img align="left" alt="Nepal" width="46px" src="https://t4.ftcdn.net/jpg/02/75/90/63/240_F_275906383_lmWCuP1auCLXm9ne5pkGElxDJrTQC3ln.jpg" />
 <img align="left" alt="Nepal" width="46px" src="https://t3.ftcdn.net/jpg/01/74/67/08/240_F_174670852_YXvoPN8GvhfYPvpIKKXlgmj8knejHKdf.jpg" />
 
@@ -7,6 +9,31 @@
 [linkedin](https://www.linkedin.com/in/sundar-raj-sharma-1a837b169/)
 
 ## SAP ABAP Developer with 1.5 Years of Industry Experience.
+
+Hi, Thanks for being here.
+I have completed all Higher Studies from Nepal. I came to Bangalore in 2017 to follow my Dream "Engineering".
+Yes, You heard it right. & I got graduated in Computer Science and Engineering in 2021, August. 
+I have done some internships in the domain of Web Development, Mostly on the Front End Side during college days.
+During Internships Period we had following responsibilities / tasks.
+
+- Designed and Developed interactive user Web Pages with Vanilla JavaScript, HTML5 and CSS as per the 
+  industry standards.
+-Designed and implemented web components across new and existing designs.
+-Participated in a project development through the entire Software Development Life Cycle. 
+
+
+Professionally, I had the following responsibilities in my last role as a  SAP ABAP developer at Maventic.
+
+- Tested the programs and databases to identify issues and make necessary modifications.
+- Performed the integration testing before launching the application to the production.
+- Wrote the quality code to program complete applications on the basis of  client requirements.
+- Designed, Developed and implemented software applications for SAP based reports and enhancements 
+ and analyzed requirements and understanding of industry technical standards.
+- Language Used : SAP ABAP
+- Database Management System : MYSQL.
+- Module(Plant Maintenance)
+  
+  Its been a wonderful IT Journey so far. As working as a developer, I started getting an interest in User Interface Design and Experiences & Flutter Cross Platform Application Development & I Started Utilizing my Free time to Learn it. Currently I am learning the Flutter and UI Design to grasp the Full Stack Knowledge in the Industry.
 
 #Goals2023
 - ⚡- Master RICEF ( SAP ABAP)
@@ -18,13 +45,5 @@
 <br />
 
 ### Languages and Tools:
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Git" width="26px" src="data:image/jpeg;base64,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" />
 
 
