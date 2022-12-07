@@ -44,6 +44,31 @@ Professionally, I had the following responsibilities in my last role as a  SAP A
 
 <br />
 
-### Languages and Tools:
+### Languages
 
+- SAP ABAP ( Advanced Business Programming Language )
+- SAP PM ( Plant Maintenence) !languages && SAP Modules == True
+- Javascript ( Intermediate)
+- React Js( Intermediate)
+- SQL
+- HTML, CSS ( !languages)
+- Dart - Beginner 
+
+
+### Tools/ Softwares.
+
+- SAP Netweaver.
+- MYSQL WorkBench
+- VsCode
+- Android Studio
+- Figma
+- Sketch
+- Protopie
+- Adobe Xd
+
+### Work Sample on UI / UX.
+
+Bahance Profile : https://www.behance.net/sundarsharma
+Dribble Profile : https://dribbble.com/sundar1122
+Linkedin Profile : https://www.linkedin.com/in/sundar-raj-sharma-1a837b169/
 
