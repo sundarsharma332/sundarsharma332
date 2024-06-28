@@ -1,4 +1,4 @@
-# Sundar Raj Sharma - Product Designer & Web Developer, IOS, Android Developer, Dev Consultant, UI Engineer
+  Product Designer & Web Developer, IOS, Android Developer, Dev Consultant, UI Engineer
 
 - **Email:** srsuiuxdesign@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/sundar-raj-sharma-1a837b169/)
